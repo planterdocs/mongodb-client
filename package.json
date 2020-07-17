@@ -10,8 +10,8 @@
   },
   "author": "Planterdocs (https://github.com/planterdocs)",
   "contributors": [
-    "Tyler Laskey <tlaskey3@gmail.com> (https://github.com/tlaskey)",
-    "Michael Sterpka <michaelsterpka@gmail.com> (https://github.com/mster)"
+    "Michael Sterpka <michaelsterpka@gmail.com> (https://github.com/mster)",
+    "Tyler Laskey <tlaskey3@gmail.com> (https://github.com/tlaskey)"
   ],
   "license": "MIT",
   "dependencies": {
